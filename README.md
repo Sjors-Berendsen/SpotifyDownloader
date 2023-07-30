@@ -23,14 +23,12 @@ $ python -m pip install yt_dlp
 
 
 ### Downloading and Installing the code
-<iframe 
-     width="815" 
-     height="670" 
-     frameborder="0" 
-     src="https://www.minervaknows.com/embed/fullLayout/ff8484fd-a9ae-4d0e-9a14-4007bd71787b?utm_medium=embed&utm_content=ff8484fd-a9ae-4d0e-9a14-4007bd71787b&utm_source=individual" 
-     title="ho">
-     
-</iframe>
+Click Code
+![image](https://github.com/BaerkeDestroyer/SpotifyDownloader/assets/79163400/b4b9bd0e-5443-46af-a972-3317948d572d)
+
+Click Download ZIP and save the file to your computer
+![image](https://github.com/BaerkeDestroyer/SpotifyDownloader/assets/79163400/cd1772e0-2260-4d8d-98ba-7a4e98a3dd6b)
+
 
 Once it is downloaded you extract the files to a location you like on your computer
 <img src="https://i.imgur.com/V10LESE.png"
@@ -42,14 +40,7 @@ When extracted, you open the folder and open the .envexample in text editor
      alt="click"
      style="float: left; margin-right: 10px;" />
 
-<iframe 
-     width="815" 
-     height="670" 
-     frameborder="0" 
-     src="https://www.minervaknows.com/embed/fullLayout/0f6a2219-8b23-495c-99ce-9c05fc9dc7c6?utm_medium=embed&utm_content=0f6a2219-8b23-495c-99ce-9c05fc9dc7c6&utm_source=individual" 
-     title="idk">
-
-</iframe>
+https://github.com/BaerkeDestroyer/SpotifyDownloader/assets/79163400/5a5c472e-8db9-46df-9a83-ad8f67cd5bfe
 
 After copying your values into the texteditor press CTRL + S to save the file, then you can close it
 
