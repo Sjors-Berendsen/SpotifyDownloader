@@ -43,7 +43,10 @@ When extracted, you open the folder and open the .envexample in text editor
 
 Then use this to get your spotify api key
 
-https://github.com/BaerkeDestroyer/SpotifyDownloader/assets/79163400/e249aedf-a605-4ff2-9e46-fc6c008d4fff
+
+https://github.com/BaerkeDestroyer/SpotifyDownloader/assets/79163400/8fad1d42-adda-41ca-aa5b-ffca2b620bb9
+
+
 
 
 After copying your values into the texteditor press CTRL + S to save the file, then you can close it
