@@ -1,7 +1,7 @@
 # SpotifyDownloader
 Downloads a spotify playlist
 
-I am working hard on the gui, and 
+I am working hard on the gui, and a compiled version so everyone can run it
 
 
 [Installation](https://github.com/BaerkeDestroyer/SpotifyDownloader/tree/main#installation)
