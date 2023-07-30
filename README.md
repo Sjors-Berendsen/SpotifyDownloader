@@ -4,9 +4,9 @@ Downloads a spotify playlist
 I am working hard on the gui, and 
 
 
-[link](#Installation)
+[Installation](https://github.com/BaerkeDestroyer/SpotifyDownloader/tree/main#installation)
 
-[link](#Running)
+[Running](#Running)
 
 ## Installation
 This guide covers the usage of the script. For more detailed information, please refer to [my discord](https://discord.gg/uQXgRfVbNJ).
